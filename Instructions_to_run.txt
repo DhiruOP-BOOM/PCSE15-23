@@ -1,0 +1,24 @@
+Requirements:
+
+Python 3.0
+Jupyter NoteBook
+
+Libraries Used:
+
+1.Pandas
+2.Numpy
+3.Matplotlib
+4.sklearn
+
+
+How To Run :
+
+1. Install Python 3.0 or above from python.org.
+2. Install Libraries memntioned above using PIP .
+3. Now we need a idle to run these so install jupyter notebook using pip.
+4. Open Cmd And Type "jupyter Notebook" .
+5. Press Enter.
+6. Now jupyter notebook will open.
+7. Navigate to the .ipynb file
+8. Open it and use Run All command from edit section.
+9. Now code will run successfully.
